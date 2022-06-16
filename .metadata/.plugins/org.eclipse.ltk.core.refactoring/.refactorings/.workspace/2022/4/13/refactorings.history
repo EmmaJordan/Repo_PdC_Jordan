@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;practica_04.1&apos; to &apos;practica_04.1_Adel&apos;" description="Rename resource &apos;practica_04.1&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/practica_04.1" name="practica_04.1_Adel" stamp="1648847199513" updateReferences="true"/>&#x0A;<refactoring comment="Delete resource &apos;practica_4.1_Emma&apos;" deleteContents="true" description="Delete resource &apos;practica_4.1_Emma&apos;" element1="/practica_4.1_Emma" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1648848144475"/>
+</session>

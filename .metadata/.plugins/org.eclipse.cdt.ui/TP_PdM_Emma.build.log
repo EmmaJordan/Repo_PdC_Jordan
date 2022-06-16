@@ -1,0 +1,10 @@
+11:49:39 **** Incremental Build of configuration Debug for project TP_PdM_Emma ****
+make -j4 all 
+arm-none-eabi-size   TP_PdM_Emma.elf 
+   text	   data	    bss	    dec	    hex	filename
+  30588	    504	   1880	  32972	   80cc	TP_PdM_Emma.elf
+Finished building: default.size.stdout
+ 
+
+11:49:40 Build Finished. 0 errors, 0 warnings. (took 1s.208ms)
+
