@@ -1,0 +1,4 @@
+../Drivers/PCF8574/Src/PCF8574_Nucleo144_port.c:13:6:PCF8574_Delay_Init	4	static,ignoring_inline_asm
+../Drivers/PCF8574/Src/PCF8574_Nucleo144_port.c:29:6:PCF8574_Delay_us	32	static
+../Drivers/PCF8574/Src/PCF8574_Nucleo144_port.c:40:6:PCF8574_Delay_ms	16	static
+../Drivers/PCF8574/Src/PCF8574_Nucleo144_port.c:45:6:PCF8574_ExpanderWrite	32	static
