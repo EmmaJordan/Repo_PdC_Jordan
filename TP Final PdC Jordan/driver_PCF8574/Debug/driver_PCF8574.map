@@ -4595,7 +4595,7 @@ LOAD c:/st/stm32cubeide_1.9.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
  .debug_str     0x00000000000d387a       0x36 ./Core/Startup/startup_stm32f429zitx.o
                                          0xaf (size before relaxing)
  .debug_str     0x00000000000d38b0      0x225 ./Drivers/PCF8574/Src/PCF8574.o
-                                      0xd13a4 (size before relaxing)
+                                      0xd13b2 (size before relaxing)
  .debug_str     0x00000000000d3ad5      0x106 ./Drivers/PCF8574/Src/PCF8574_Nucleo144_port.o
                                       0xd175c (size before relaxing)
  .debug_str     0x00000000000d3bdb      0xb9c ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
