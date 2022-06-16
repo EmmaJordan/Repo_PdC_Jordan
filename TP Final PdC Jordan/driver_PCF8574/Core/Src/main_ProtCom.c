@@ -84,10 +84,12 @@ int main(void)
 	/* Initialize all configured peripherals */
 	MX_GPIO_Init();
 	MX_USART3_UART_Init();
-	printf("UART OK\r\n");
+	printf("TP Final\r\n");
+	printf("Protocolos de Comunicacion en Sistemas Embebidos\r\n");
+	printf("Carrera de Especializacion en Sistemas Embebidos\r\n");
+	printf("Jordan Joan Emmanuel\r\n");
 
 	MX_I2C1_Init();
-	printf("I2C1 OK\r\n");
 
 	/* Display LCD16x2 */
     myPCF8574_Iniciar();
