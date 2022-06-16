@@ -670,7 +670,7 @@ int main(void)
  80007fc:	f000 f8fa 	bl	80009f4 <MX_GPIO_Init>
 	MX_USART3_UART_Init();
  8000800:	f000 f8ce 	bl	80009a0 <MX_USART3_UART_Init>
-	printf("TP Final\r\n");
+	printf("TP Final\r\n\r\n");
  8000804:	480d      	ldr	r0, [pc, #52]	; (800083c <main+0x4c>)
  8000806:	f002 ff79 	bl	80036fc <puts>
 	printf("Protocolos de Comunicacion en Sistemas Embebidos\r\n");
@@ -679,7 +679,7 @@ int main(void)
 	printf("Carrera de Especializacion en Sistemas Embebidos\r\n");
  8000810:	480c      	ldr	r0, [pc, #48]	; (8000844 <main+0x54>)
  8000812:	f002 ff73 	bl	80036fc <puts>
-	printf("Jordan Joan Emmanuel\r\n");
+	printf("Jordan Joan Emmanuel\r\n\r\n");
  8000816:	480c      	ldr	r0, [pc, #48]	; (8000848 <main+0x58>)
  8000818:	f002 ff70 	bl	80036fc <puts>
 

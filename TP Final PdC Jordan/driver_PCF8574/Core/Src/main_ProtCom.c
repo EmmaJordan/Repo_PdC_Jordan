@@ -84,10 +84,10 @@ int main(void)
 	/* Initialize all configured peripherals */
 	MX_GPIO_Init();
 	MX_USART3_UART_Init();
-	printf("TP Final\r\n");
+	printf("TP Final\r\n\r\n");
 	printf("Protocolos de Comunicacion en Sistemas Embebidos\r\n");
 	printf("Carrera de Especializacion en Sistemas Embebidos\r\n");
-	printf("Jordan Joan Emmanuel\r\n");
+	printf("Jordan Joan Emmanuel\r\n\r\n");
 
 	MX_I2C1_Init();
 
