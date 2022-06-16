@@ -1,0 +1,10 @@
+18:38:04 **** Incremental Build of configuration Debug for project practica3_Amilcar_copia ****
+make -j4 all 
+arm-none-eabi-size   practica3_Amilcar_copia.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6312	     48	   1576	   7936	   1f00	practica3_Amilcar_copia.elf
+Finished building: default.size.stdout
+ 
+
+18:38:06 Build Finished. 0 errors, 0 warnings. (took 2s.30ms)
+

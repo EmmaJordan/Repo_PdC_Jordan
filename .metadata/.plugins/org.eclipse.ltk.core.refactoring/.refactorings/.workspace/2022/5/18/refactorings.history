@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;Ej1_pushButton&apos; to &apos;Ej1_pushButtonPdM&apos;" description="Rename resource &apos;Ej1_pushButton&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Ej1_pushButton" name="Ej1_pushButtonPdM" stamp="1651927637800" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;Ej1_pushButton&apos; to &apos;Clase1_RTOSI_Jordan&apos;" description="Rename resource &apos;Ej1_pushButton&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Ej1_pushButton" name="Clase1_RTOSI_Jordan" stamp="1651927747286" updateReferences="true"/>
+</session>

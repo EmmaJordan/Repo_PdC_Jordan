@@ -87,7 +87,7 @@ int main(void)
 	printf("TP Final\r\n");
 	printf("Protocolos de Comunicacion en Sistemas Embebidos\r\n");
 	printf("Carrera de Especializacion en Sistemas Embebidos\r\n");
-	printf("Jordan Joan Emmanuel\r\n\r\n");
+	printf("Jordan Joan Emmanuel\r\n");
 
 	MX_I2C1_Init();
 

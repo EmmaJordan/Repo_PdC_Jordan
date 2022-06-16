@@ -1,0 +1,17 @@
+10:22:06 **** Incremental Build of configuration Debug for project Ej2_uart_Emma ****
+make -j4 all 
+arm-none-eabi-gcc "../Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F429ZITx -DSTM32F4 -DNUCLEO_F429ZI -DUSE_HAL_DRIVER -DSTM32F429xx -c -I../Inc -I"C:/Users/Win10/Desktop/RepoPdM_Jordan/PdM_workspace/Ej2_uart_Emma/Drivers/STM32F4xx_HAL_Driver/Inc" -I"C:/Users/Win10/Desktop/RepoPdM_Jordan/PdM_workspace/Ej2_uart_Emma/Drivers/CMSIS/Include" -I"C:/Users/Win10/Desktop/RepoPdM_Jordan/PdM_workspace/Ej2_uart_Emma/Drivers/CMSIS/Device/ST/STM32F4xx/Include" -I"C:/Users/Win10/Desktop/RepoPdM_Jordan/PdM_workspace/Ej2_uart_Emma/Drivers/BSP/STM32F4xx_Nucleo_144" -I"C:/Users/Win10/Desktop/RepoPdM_Jordan/PdM_workspace/Ej2_uart_Emma/Drivers/Core/Inc" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Src/main.d" -MT"Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Src/main.o"
+arm-none-eabi-gcc -o "Ej2_uart_Emma.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\Win10\Desktop\RepoPdM_Jordan\PdM_workspace\Ej2_uart_Emma\STM32F429ZITX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Ej2_uart_Emma.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: Ej2_uart_Emma.elf
+ 
+arm-none-eabi-size   Ej2_uart_Emma.elf 
+arm-none-eabi-objdump -h -S  Ej2_uart_Emma.elf  > "Ej2_uart_Emma.list"
+   text	   data	    bss	    dec	    hex	filename
+  13340	    132	   1660	  15132	   3b1c	Ej2_uart_Emma.elf
+Finished building: default.size.stdout
+ 
+Finished building: Ej2_uart_Emma.list
+ 
+
+10:22:08 Build Finished. 0 errors, 0 warnings. (took 2s.27ms)
+

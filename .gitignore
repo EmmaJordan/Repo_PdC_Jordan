@@ -1,24 +1,3 @@
-#eclipse
-.metadata
-
-#stm32cubemxide
-.metadata
-*.o
-*.ko
-*.obj
-*.elf
-*.list
-*.map
-
-#stm32cubeide
-.metadata
-*.o
-*.ko
-*.obj
-*.elf
-*.list
-*.map
-
 # Prerequisites
 *.d
 

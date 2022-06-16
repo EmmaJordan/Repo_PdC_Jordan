@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Practica3_Emma/Src/main_TP2_emma.c&apos; to &apos;main_TP3_emma.c&apos;" description="Rename resource &apos;main_TP2_emma.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Src/main_TP2_emma.c" name="main_TP3_emma.c" stamp="1648002231496" updateReferences="true"/>
+</session>

@@ -679,7 +679,7 @@ int main(void)
 	printf("Carrera de Especializacion en Sistemas Embebidos\r\n");
  8000810:	480c      	ldr	r0, [pc, #48]	; (8000844 <main+0x54>)
  8000812:	f002 ff73 	bl	80036fc <puts>
-	printf("Jordan Joan Emmanuel\r\n\r\n");
+	printf("Jordan Joan Emmanuel\r\n");
  8000816:	480c      	ldr	r0, [pc, #48]	; (8000848 <main+0x58>)
  8000818:	f002 ff70 	bl	80036fc <puts>
 
