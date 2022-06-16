@@ -88,6 +88,7 @@ int main(void)
 	printf("Protocolos de Comunicacion en Sistemas Embebidos\r\n");
 	printf("Carrera de Especializacion en Sistemas Embebidos\r\n");
 	printf("Jordan Joan Emmanuel\r\n\r\n");
+	printf("CESE 17co2022\r\n\r\n");
 
 	MX_I2C1_Init();
 

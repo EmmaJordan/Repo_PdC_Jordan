@@ -1,0 +1,10 @@
+10:31:53 **** Incremental Build of configuration Debug for project Practica3_Emma_invertido ****
+make -j4 all 
+arm-none-eabi-size   Practica3_Emma_invertido.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7184	     56	   1616	   8856	   2298	Practica3_Emma_invertido.elf
+Finished building: default.size.stdout
+ 
+
+10:31:55 Build Finished. 0 errors, 0 warnings. (took 1s.79ms)
+
