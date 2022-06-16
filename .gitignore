@@ -3,6 +3,10 @@
 
 #stm32cubeide
 .metadata
+*.o
+*.ko
+*.obj
+*.elf
 
 # Prerequisites
 *.d
