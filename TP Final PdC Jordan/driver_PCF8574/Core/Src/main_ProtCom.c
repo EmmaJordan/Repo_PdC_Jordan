@@ -90,6 +90,7 @@ int main(void)
 	printf("Jordan Joan Emmanuel\r\n");
 	printf("CESE 17co2022\r\n\r\n");
 
+
 	MX_I2C1_Init();
 
 	/* Display LCD16x2 */
