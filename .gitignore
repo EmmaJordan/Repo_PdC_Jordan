@@ -1,4 +1,7 @@
 /Debug/log
+/Debug.log
+/driver_PCF8574/Debug.log
+/driver_PCF8574/Debug
 
 # Prerequisites
 *.d
