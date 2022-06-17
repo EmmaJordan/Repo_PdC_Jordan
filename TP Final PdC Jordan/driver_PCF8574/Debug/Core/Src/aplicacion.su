@@ -1,8 +1,0 @@
-../Core/Src/aplicacion.c:10:13:_myPCF8574_PrintNumber	16	static
-../Core/Src/aplicacion.c:17:6:myPCF8574_Iniciar	8	static
-../Core/Src/aplicacion.c:22:6:myPCF8574_SaludoInicial	8	static
-../Core/Src/aplicacion.c:44:6:myPCF8574_BackLight	8	static
-../Core/Src/aplicacion.c:61:6:myPCF8574_Cursor	16	static
-../Core/Src/aplicacion.c:85:6:myPCF8574_CorrimientoIzquierda	16	static
-../Core/Src/aplicacion.c:99:6:myPCF8574_CorrimientoDerecha	16	static
-../Core/Src/aplicacion.c:113:6:myPCF8574_ImprimeNumero	24	static
