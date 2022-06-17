@@ -100,11 +100,11 @@ int main(void)
     myPCF8574_CorrimientoIzquierda();
     myPCF8574_CorrimientoDerecha();
 
+
 	while (1)
 	{
 		myPCF8574_ImprimeNumero();
 	}
-
 }
 
 

@@ -1,6 +1,4 @@
-build 
-doc
-list 
+/Debug/log
 
 # Prerequisites
 *.d
@@ -11,6 +9,7 @@ list
 *.obj
 *.elf
 *.list
+*.mk
 
 # Linker output
 *.ilk
@@ -46,6 +45,8 @@ list
 *.su
 *.idb
 *.pdb
+*.list
+.list
 
 # Kernel Module Compile Results
 *.mod*
